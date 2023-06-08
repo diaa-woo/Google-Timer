@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=e-YH6DuxrKo
 
-해당 유튜브 영상을 보다가 **구글 타이머**라는 존재를 알게 되었다. 생각보다 쓸만해보여서 한번 사볼까? 해서 찾아봤는데 거의 모든 제품이 만원이상이었다. 돈은 없었지만 기다리기는 싫었는데, 마침 가방에 NodeMCU 모듈과 점퍼 케이블 딱 4개, OLED 모듈이 있었다. 오! 이거면 만들 수 있겠다! 라고 생각해서 시작하게 되었다.
+해당 유튜브 영상을 보다가 **구글 타이머**라는 존재를 알게 되었습니다. 생각보다 쓸만해보여서 한번 사볼까? 해서 찾아봤는데 거의 모든 제품이 만원이상이었습니다. 돈은 없었지만 딱히 기다리기는 싫었었는데, 마침 가방에 NodeMCU 모듈과 점퍼 케이블 딱 4개, OLED 모듈이 있었습니다. 오! 이거면 만들 수 있겠다! 라고 생각해서 시작하게 되었습니다.
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDAyMjNfMjMz/MDAxNTgyNDMzOTQwODk0.R4BzNoqMXX5P7jg-8RPilYC32yR8IGKpeEaqAPICQUog.OFhFPf-dLSexItp9RgVrk6PQuo-U_PEskQ7UO9xDPGog.PNG.zjalxm/SE-77e5342e-66c3-4d58-951e-4212d6da4de8.png?type=w800">
 
